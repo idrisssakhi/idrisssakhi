@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @idrisssakhi
-- 👀 I’m React native developer, i have 5 year experience. tried different techno and programming languages. 
+- 👀 React native developer. 
 - 📫 My LinkedIn profile link is: https://www.linkedin.com/in/idris-sakhi-304713a9/
 
 <!---
